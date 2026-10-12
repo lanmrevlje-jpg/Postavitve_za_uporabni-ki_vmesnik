@@ -9,6 +9,16 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/button3"
+        android:layout_width="249dp"
+        android:layout_height="114dp"
+        android:backgroundTint="#666666"
+        android:text="Zero"
+        android:textSize="60sp"
+        tools:layout_editor_absoluteX="70dp"
+        tools:layout_editor_absoluteY="659dp" />
+
+    <Button
         android:id="@+id/button"
         android:layout_width="279dp"
         android:layout_height="113dp"
