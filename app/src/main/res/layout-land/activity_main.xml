@@ -36,8 +36,8 @@
         android:textAlignment="center"
         android:textColor="#0000FF"
         android:textSize="144sp"
-        tools:layout_editor_absoluteX="427dp"
-        tools:layout_editor_absoluteY="90dp" />
+        tools:layout_editor_absoluteX="394dp"
+        tools:layout_editor_absoluteY="114dp" />
 
     <Button
         android:id="@+id/button2"
