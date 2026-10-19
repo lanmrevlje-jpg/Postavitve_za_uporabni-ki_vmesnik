@@ -12,7 +12,7 @@ Uporabljene tehnologije:
 <ul>
   <li>Java</li>
   <li>XML</li>
-  <li>Android Studio</li>
+  <li>Android Studi0o</li>
   <li>ConstraintLayout</li>
 </ul>
 
