@@ -16,7 +16,7 @@ Uporabljene tehnologije:
   <li>ConstraintLayout</li>
 </ul>
 
-Uporabniški vmesnik je prilagojen pokončni in ležeči orientaciji ter večjim zaslonom (land, xlarge).
+Uporabniški vmesnik je prilagojen pokončni in ležeči orientaciji in večjim zaslonom (land, xlarge).
 <br>
 <img width="206" height="427" alt="pos0" src="https://github.com/user-attachments/assets/e5e1b3f7-78ce-4cf7-bab6-94f02a36902d" />
 <img width="206" height="427" alt="pos1" src="https://github.com/user-attachments/assets/51c5cb21-cb71-4aef-922b-c6f0103a3661" />
